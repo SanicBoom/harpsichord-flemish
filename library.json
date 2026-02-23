@@ -112,5 +112,235 @@
     "low_far_gs3_rr1_1": "low/HarpsiRH_Low_Far_G#3_rr1.wav",
     "low_far_gs4_rr1": "low/HarpsiRH_LowRel_Far_G#4_rr1.wav",
     "low_far_gs4_rr1_1": "low/HarpsiRH_Low_Far_G#4_rr1.wav"
-  }
+  },
+  "noteMap": [
+    {
+      "note": "F#0",
+      "sample": "low_far_fs0_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#0",
+      "sample": "low_far_gs0_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#0",
+      "sample": "low_far_as0_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C1",
+      "sample": "low_far_c1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D1",
+      "sample": "low_far_d1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E1",
+      "sample": "low_far_e1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#1",
+      "sample": "high_far_fs1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#1",
+      "sample": "high_far_gs1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#1",
+      "sample": "high_far_as1_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C2",
+      "sample": "low_far_c2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#2",
+      "sample": "high_far_cs2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D2",
+      "sample": "low_far_d2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E2",
+      "sample": "high_far_e2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#2",
+      "sample": "high_far_fs2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#2",
+      "sample": "high_far_gs2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#2",
+      "sample": "high_far_as2_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C3",
+      "sample": "low_far_c3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#3",
+      "sample": "high_far_cs3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D3",
+      "sample": "low_far_d3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E3",
+      "sample": "high_far_e3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#3",
+      "sample": "high_far_fs3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#3",
+      "sample": "high_far_gs3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A3",
+      "sample": "high_far_a3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#3",
+      "sample": "low_far_as3_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C4",
+      "sample": "low_far_c4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C#4",
+      "sample": "high_far_cs4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D4",
+      "sample": "high_far_d4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E4",
+      "sample": "high_far_e4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#4",
+      "sample": "high_far_fs4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#4",
+      "sample": "high_far_gs4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#4",
+      "sample": "high_far_as4_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C5",
+      "sample": "high_far_c5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "D5",
+      "sample": "high_far_d5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "E5",
+      "sample": "high_far_e5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "F#5",
+      "sample": "high_far_fs5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "G#5",
+      "sample": "high_far_gs5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "A#5",
+      "sample": "high_far_as5_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    },
+    {
+      "note": "C6",
+      "sample": "high_far_c6_rr1",
+      "loVel": 0,
+      "hiVel": 127
+    }
+  ]
 }
